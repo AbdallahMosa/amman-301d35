@@ -8,6 +8,7 @@ class App extends React.Component{
           <Head />
           <Main />
           <Foot />
+          <div></div>
           </div>)
 
     }
